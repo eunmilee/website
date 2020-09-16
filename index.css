@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+    
+}
+
+body div {
+    background-color:  blueviolet;
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+}
+
+
+
+img {
+    display: block;
+    margin: 2rem auto;
+    width: 50%;
+}
